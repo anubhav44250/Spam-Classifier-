@@ -17,7 +17,7 @@ Cognix is an AI-powered spam and scam detection system that combines:
 - Streamlit
 
 ## Live Demo
-(Add your link here)
+https://spam-classifier0049.streamlit.app/
 
 ## Run Locally
 streamlit run app.py
